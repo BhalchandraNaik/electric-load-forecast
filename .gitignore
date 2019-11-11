@@ -1,0 +1,11 @@
+.idea/
+.git/
+randomforest_implementation/L1-train.csv
+
+docs/
+data/
+results/
+.ipynb_checkpoints/
+
+.DS_Store
+.gitignore
